@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2261" started-at="2015-12-29T18:51:48Z" finished-at="2015-12-29T18:51:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2261" started-at="2015-12-29T18:51:48Z" finished-at="2015-12-29T18:51:51Z">
+      <class name="com.selenium.google.automation.GoogleSearch">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selenium.google.automation.GoogleSearch@b684286]" name="beforeTest" is-config="true" duration-ms="2217" started-at="2015-12-30T00:21:48Z" finished-at="2015-12-30T00:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.selenium.google.automation.GoogleSearch@b684286]" name="search" duration-ms="11" started-at="2015-12-30T00:21:51Z" finished-at="2015-12-30T00:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.google.automation.GoogleSearch@b684286]" name="afterTest" is-config="true" duration-ms="2" started-at="2015-12-30T00:21:51Z" finished-at="2015-12-30T00:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium.google.automation.GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,71 @@
+29/12/2015 18:07:18 seleniumLogger File Found
+29/12/2015 18:07:18 seleniumLogger Running Test Cases inFirefox
+29/12/2015 19:13:40 seleniumLogger File Found
+29/12/2015 19:13:40 seleniumLogger Running Test Cases in IE
+29/12/2015 19:41:25 seleniumLogger File Found
+29/12/2015 19:41:25 seleniumLogger Running Test Cases in Firefox
+29/12/2015 19:41:43 seleniumLogger Successfullu connected to Firefox browser
+29/12/2015 19:42:52 seleniumLogger File Found
+29/12/2015 19:42:52 seleniumLogger Running Test Cases in IE
+29/12/2015 19:42:52 seleniumLogger Unable to connect to Driver due to missing executable java.lang.IllegalStateException: The driver executable does not exist: D:\Selenium\iexploredriver.exe
+29/12/2015 19:43:58 seleniumLogger File Found
+29/12/2015 19:43:59 seleniumLogger Running Test Cases in IE
+29/12/2015 19:43:59 seleniumLogger Unable to connect to Driver due to missing executable java.lang.IllegalStateException: The driver executable does not exist: D:\Selenium\iexploredriver.exe
+29/12/2015 20:10:12 seleniumLogger File Found
+29/12/2015 20:10:12 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:10:28 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:12:15 seleniumLogger File Found
+29/12/2015 20:12:15 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:13:00 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:13:01 seleniumLogger Reached Google.com
+29/12/2015 20:16:47 seleniumLogger File Found
+29/12/2015 20:16:47 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:17:07 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:17:08 seleniumLogger Reached Google.com
+29/12/2015 20:24:47 seleniumLogger File Found
+29/12/2015 20:24:47 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:25:02 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:25:03 seleniumLogger Reached Google.com
+29/12/2015 20:28:35 seleniumLogger File Found
+29/12/2015 20:28:35 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:28:50 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:28:51 seleniumLogger Reached Google.com
+29/12/2015 20:45:00 seleniumLogger File Found
+29/12/2015 20:45:00 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:45:31 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:45:32 seleniumLogger Reached Google.com
+29/12/2015 20:48:44 seleniumLogger File Found
+29/12/2015 20:48:44 seleniumLogger Running Test Cases in Firefox
+29/12/2015 20:49:01 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 20:49:25 seleniumLogger Reached Google.com
+29/12/2015 21:17:36 seleniumLogger File Found
+29/12/2015 21:17:36 seleniumLogger Running Test Cases in Firefox
+29/12/2015 21:18:10 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 21:18:10 seleniumLogger Output file succesfully created
+29/12/2015 21:18:11 seleniumLogger Reached Google.com
+29/12/2015 21:20:24 seleniumLogger File Found
+29/12/2015 21:20:24 seleniumLogger Running Test Cases in Firefox
+29/12/2015 21:20:50 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 21:20:50 seleniumLogger Output file succesfully created
+29/12/2015 21:20:50 seleniumLogger Reached Google.com
+29/12/2015 21:23:11 seleniumLogger File Found
+29/12/2015 21:23:11 seleniumLogger Running Test Cases in Firefox
+29/12/2015 21:23:25 seleniumLogger Successfully connected to Firefox browser
+29/12/2015 21:23:25 seleniumLogger Output file succesfully created
+29/12/2015 21:23:53 seleniumLogger Reached Google.com
+30/12/2015 00:17:52 seleniumLogger File Found
+30/12/2015 00:17:52 seleniumLogger Running Test Cases in IE
+30/12/2015 00:17:55 seleniumLogger Unable to connect to Driver org.openqa.selenium.remote.SessionNotFoundException: Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.62 seconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'L-156070851', ip: '192.168.2.37', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+30/12/2015 00:17:55 seleniumLogger Output file succesfully created
+30/12/2015 00:21:49 seleniumLogger File Found
+30/12/2015 00:21:49 seleniumLogger Running Test Cases in IE
+30/12/2015 00:21:50 seleniumLogger Unable to connect to Driver org.openqa.selenium.remote.SessionNotFoundException: Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.11 seconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'L-156070851', ip: '192.168.2.37', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+30/12/2015 00:21:50 seleniumLogger Output file succesfully created

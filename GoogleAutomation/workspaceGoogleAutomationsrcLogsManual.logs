@@ -1,0 +1,6 @@
+29/12/2015 17:46:12 seleniumLogger File Found
+29/12/2015 17:46:33 seleniumLogger File Found
+29/12/2015 17:47:35 seleniumLogger File not foundjava.io.FileNotFoundException: D:\workspace\GoogleAutomation\input.txt (The system cannot find the file specified)
+29/12/2015 17:59:30 seleniumLogger File Found
+29/12/2015 18:02:00 seleniumLogger File Found
+29/12/2015 18:02:00 seleniumLogger Running Test Cases inFirefox
